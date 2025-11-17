@@ -1,4 +1,4 @@
-                                                🗄️ Banco de Dados – Fundamentos e Modelagem
+                         🗄️ Banco de Dados – Fundamentos e Modelagem
 
 Bem-vindo(a)!
 Este repositório reúne atividades, exercícios e projetos desenvolvidos ao longo da disciplina Banco de Dados, abordando desde a modelagem até a implementação de sistemas de armazenamento de dados.
